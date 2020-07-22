@@ -20,6 +20,6 @@
 |`ls <path>`| List the files in `<path>`|
 |`ls`| List the files in the current directory|
 |`ls -l`| List files in **long format** including file permissions, owner, change date, size, ...
-|´ls -a´| List **all** files, including hidden files (starting with a .)|
+|`ls -a`| List **all** files, including hidden files (starting with a .)|
 |`cat <files>`| Print `<file>` to stdout, interpreted as plain text|
 |`hexdump <file>`| Print bytes in `<file>` using hexadecimal digits
