@@ -6,4 +6,4 @@
 
 [Visual Studio Code](/codes/visual-studio-code)
 
-[Survival guide](/codes/)
+[Survival guide](/codes/ccd-survival-guide)
